@@ -15,8 +15,6 @@
 ## Запуск
 
 ```bash
-python3 outputs/lab3_variant6.py
-cd outputs
+python3 lab3_variant6.py
 python3 -m unittest test_lab3_variant6.py
 ```
-
